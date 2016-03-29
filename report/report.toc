@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}What is Dead Lock}{2}
+\contentsline {section}{\numberline {2}Algorithm Design}{2}
+\contentsline {subsection}{\numberline {2.1}Modeling}{2}
+\contentsline {subsection}{\numberline {2.2}Algorithm}{3}
+\contentsline {section}{\numberline {3}Hook}{3}
+\contentsline {section}{\numberline {4}Implement}{4}
+\contentsline {subsection}{\numberline {4.1}labling}{4}
+\contentsline {subsection}{\numberline {4.2}Main}{4}
+\contentsline {subsection}{\numberline {4.3}DeadLock}{5}
+\contentsline {section}{\numberline {5}Example}{5}
+\contentsline {subsection}{\numberline {5.1}ReLock}{5}
+\contentsline {subsection}{\numberline {5.2}MultiLock}{6}
+\contentsline {subsection}{\numberline {5.3}ProdAndCons}{7}
+\contentsline {subsection}{\numberline {5.4}WaitAndSignal}{7}
+\contentsline {section}{\numberline {6}Thought and Conclusion}{8}
+\contentsline {section}{\numberline {7}Task Assignment}{9}
+\contentsline {subsection}{\numberline {7.1}高宇}{9}
+\contentsline {subsection}{\numberline {7.2}张家睿}{9}
+\contentsline {subsection}{\numberline {7.3}李文昊}{9}
